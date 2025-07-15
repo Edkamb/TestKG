@@ -14,17 +14,13 @@ The intended learning outcomes are as follows:
 * The participants will be able to implement a mutation-based input generator using the RDFMutate tool.
 * The participants will be able to find material and papers about other approaches to software testing.
 
-## Venue
-
-tba
-
 ## Material
 
 We will publish the testing tools and material here. No preperation and no equipment beyond a laptop will needed.
 
 ## Program
 
-### Program 02.10
+Room and day tba
 
 | Time  | Presentation |
 | -------------  | ------------- |
