@@ -16,7 +16,10 @@ The intended learning outcomes are as follows:
 
 ## Material
 
-We will publish the testing tools and material here. No preperation and no equipment beyond a laptop will needed.
+We will publish the testing tools and material here. Only a laptop will be needed, please install
+* A Kotlin or Java IDE/compiler
+* Python 3
+* git
 
 ## Program
 
@@ -33,7 +36,7 @@ The tutorial will be held 02.11 in two morning sessions.
 | 60 min | Creating a mutation-based RDF-fuzzer with [RDFMutate](https://github.com/smolang/RDFMutate) | 
 | 20 min | Conclusion with pointers to further material |
 
-There will be a prize for the participant who finds the most bugs in our example tool.
+There will be a *prize* for the participant who finds the most bugs in our example tool.
 
 ## Organizers
 If there are any inquiries or questions, feel free to contact the organizers:
