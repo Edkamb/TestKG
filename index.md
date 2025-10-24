@@ -20,18 +20,20 @@ We will publish the testing tools and material here. No preperation and no equip
 
 ## Program
 
-Room and day tba
+The tutorial will be held 02.11 in two morning sessions.
 
 | Time  | Presentation |
 | -------------  | ------------- |
-| --- | Slot 1 |
+| 09 AM | Session 1 |
 | 20 min | Introduction to automated testing | 
 | 20 min | Setting up framework | 
 | 50 min | Creating a language-based RDF-fuzzer with [ISLa](https://rindphi.github.io/isla/islaspec/) | 
-| --- | Slot 2 |
+| 11A M | Slot 2 |
 | 10 min | Setting up framework | 
 | 60 min | Creating a mutation-based RDF-fuzzer with [RDFMutate](https://github.com/smolang/RDFMutate) | 
 | 20 min | Conclusion with pointers to further material |
+
+There will be a prize for the participant who finds the most bugs in our example tool.
 
 ## Organizers
 If there are any inquiries or questions, feel free to contact the organizers:
