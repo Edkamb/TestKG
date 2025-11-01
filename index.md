@@ -1,4 +1,4 @@
-Welcome to the website of the Testing Knowledge Graph Applications (TestKG) Tutorial, which will be held November 2025 as part of the [ISWC'25](https://iswc2025.semanticweb.org/) conference in Nara, Japan.
+Welcome to the website of the Testing Knowledge Graph Applications (TestKG) Tutorial, which will be held 02 November 2025 as part of the [ISWC'25](https://iswc2025.semanticweb.org/) conference in Nara, Japan.
 
 
 ## Description
@@ -16,25 +16,26 @@ The intended learning outcomes are as follows:
 
 ## Material
 
-We will publish the testing tools and material here. Only a laptop will be needed, please install
+Only a laptop will be needed, please install
 * A Kotlin or Java IDE/compiler
 * Python 3
 * git
 
+Slides are [here](slides_testkg.pdf)
+
 ## Program
 
-The tutorial will be held 02.11 in two morning sessions.
+The tutorial will be held 02.11 in two morning sessions. 
 
 | Time  | Presentation |
 | -------------  | ------------- |
 | 09 AM | Session 1 |
-| 20 min | Introduction to automated testing | 
-| 20 min | Setting up framework | 
-| 50 min | Creating a language-based RDF-fuzzer with [ISLa](https://rindphi.github.io/isla/islaspec/) | 
-| 11A M | Slot 2 |
+| 30 min | Introduction to automated testing and recent advances for KGs|
+| 50 min | Creating a mutation-based RDF-fuzzer with [RDFMutate](https://github.com/smolang/RDFMutate) | 
+| 11 AM | Session 2 |
 | 10 min | Setting up framework | 
-| 60 min | Creating a mutation-based RDF-fuzzer with [RDFMutate](https://github.com/smolang/RDFMutate) | 
-| 20 min | Conclusion with pointers to further material |
+| 60 min | Creating a language-based RDF-fuzzer with [ISLa](https://rindphi.github.io/isla/islaspec/) | 
+| 10 min | Conclusion with pointers to further material |
 
 There will be a *prize* for the participant who finds the most bugs in our example tool.
 
